@@ -1,2 +1,2 @@
 # lanescast.github.io
-Porta do Podcast Lanescast
+Portal do Podcast Lanescast
